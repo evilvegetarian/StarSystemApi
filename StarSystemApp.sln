@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarSystemApp.API", "StarSystemApp.API\StarSystemApp.API.csproj", "{B79A4430-C85A-458C-8A6F-75BD6CA297BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79A4430-C85A-458C-8A6F-75BD6CA297BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79A4430-C85A-458C-8A6F-75BD6CA297BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79A4430-C85A-458C-8A6F-75BD6CA297BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79A4430-C85A-458C-8A6F-75BD6CA297BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2620C1-9B8A-4006-9D92-5F550A76CB34}
+	EndGlobalSection
+EndGlobal
