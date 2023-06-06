@@ -16,7 +16,7 @@ namespace StarSystemApp.API.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=pokonch811");
+                optionsBuilder.UseNpgsql("");
             }
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
